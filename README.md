@@ -29,16 +29,6 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lianvn&show_icons=true" alt="stats" width="440"/>
-
-## Statistics 👨‍💻
-#### Improving frontend skills as much as backend and logic skills.
-#### Currently working on my new blog: [desarrrollo.com](https://desarrrollo.com)
-
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianvn" alt="javascript" width="440"/>
-
 ## Tech Skills 🚀
 #### I focus my career path on the frontend development. I've used Javascript, Typescript, Angular, HTML, CSS3, Bootstrap, SaSS and Git along all my career. Also, I used NodeJS, Microsoft SQL Server, Oracle SQL Developer and Ericsson Order Care for the backend development. Even some project and CI/CD tools such as Jira, Bitbucket and Jenkins were necessary in order to accomplish my job.
 
