@@ -14,11 +14,11 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/lnnvns/" target="_blank" >
+<a href="https://www.lnnvns.com/" target="_blank" >
   <img align="center" 
        alt="Linkedin" 
        width="35px" 
-       src="https://github.com/kenangundogan/fontisto/blob/master/icons/png/browser/edge.png" />
+       src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" />
 </a>
 &nbsp;
 
