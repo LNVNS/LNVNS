@@ -14,6 +14,13 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
 </a>
 &nbsp;
+<a href="https://www.linkedin.com/in/lnnvns/" target="_blank" >
+  <img align="center" 
+       alt="Linkedin" 
+       width="35px" 
+       src="https://github.com/kenangundogan/fontisto/blob/master/icons/png/browser/edge.png" />
+</a>
+&nbsp;
 
 <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!-- <img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="Lian Nivin logo" width="100"/> -->
