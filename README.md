@@ -31,4 +31,4 @@
 </p>
 
 ## Articles
-- <a href="https://liannivin.medium.com/deploy-your-first-rails-app-with-heroku-30a04c8f19a" target="_blank" >Deploy Your First Rails App With Heroku</a>
+- <a href="https://liannivin.medium.com/deploy-your-first-rails-app-with-heroku-30a04c8f19a" target="_blank" >Deploy Your First Rails App With Heroku (2020)</a>
