@@ -1,10 +1,13 @@
-# Hi, I'm Lian Nivin from 🇵🇪<span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/></span>
-
+# Hi, I'm Lian Nivin from 🇵🇪
+<span style="max-width: 36px; display: flex;">
+<img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/>
 <a href="mailto:liannivins@gmail.com" target="_blank" >
   <img align="center" 
        alt="Gmail" 
        width="35px" 
        src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
+</span>
+
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/lnnvns/" target="_blank" >
@@ -28,7 +31,7 @@
 ### I'm a programmer within some years of experience in frontend and backend development. I know how to estimate issues, do the dirty stuff as well as do technical support.
 
 ## Tech Skills 🚀
-#### These are some tools I used in my professional life (I didn't find Oracle and SQL Server database icons yet 😛):
+#### These are some tools I used in my professional life (I didn't find Oracle and SQL Server database icons yet 😋):
 
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
