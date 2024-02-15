@@ -1,34 +1,9 @@
-# Hi, I'm Lian Nivin from 🇵🇪
-<span style="max-width: 36px; display: flex;">
-<img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/>
-<a href="mailto:liannivins@gmail.com" target="_blank" >
-  <img align="center" 
-       alt="Gmail" 
-       width="35px" 
-       src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />
-</span>
-
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/lnnvns/" target="_blank" >
-  <img align="center" 
-       alt="Linkedin" 
-       width="35px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-</a>
-&nbsp;
-<a href="https://www.lnnvns.com/" target="_blank" >
-  <img align="center" 
-       alt="Linkedin" 
-       width="35px" 
-       src="https://raw.githubusercontent.com/feathericons/feather/master/icons/globe.svg" />
-</a>
-&nbsp;
+# Hi, I'm Lian Nivin from 🇵🇪 <span style="max-width: 36px; display: flex;"><img src="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif" srcset="https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 1x, https://raw.githubusercontent.com/xgqfrms/cdn/gh-pages/images/wave-hand.gif 2x" alt="👋" title="wave-hand" style="width: 36px !important;"/>&nbsp;&nbsp;<a href="mailto:liannivins@gmail.com" target="_blank" ><img align="center" alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" /></a>&nbsp;<a href="https://www.linkedin.com/in/lnnvns/" target="_blank" ><img align="center" alt="Linkedin" width="35px" src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" /></a>&nbsp;</span>&nbsp;
 
 <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <!-- <img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="Lian Nivin logo" width="100"/> -->
 
-### I'm a programmer within some years of experience in frontend and backend development. I know how to estimate issues, do the dirty stuff as well as do technical support.
+### I'm a programmer with some years of experience in frontend and backend development. I know how to estimate issues, do the dirty stuff as well as do technical support.
 
 ## Tech Skills 🚀
 #### These are some tools I used in my professional life (I didn't find Oracle and SQL Server database icons yet 😋):
@@ -51,6 +26,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" /> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
+<!--   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" /> -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" />
 </p>
+
+## Articles
+- <a href="https://liannivin.medium.com/deploy-your-first-rails-app-with-heroku-30a04c8f19a" target="_blank" >Deploy Your First Rails App With Heroku</a>
