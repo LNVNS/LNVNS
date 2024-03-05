@@ -6,7 +6,7 @@
 ### I'm a programmer with some years of experience in frontend and backend development. I know how to estimate issues, do the dirty stuff as well as do technical support.
 
 ## Tech Skills 🚀
-#### These are some tools I used in my professional life (I didn't find Oracle and SQL Server database icons yet 😋):
+#### Some tools I used in my professional life (missing Oracle and SQL Server DBMS):
 
 <p align="left">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
