@@ -4,7 +4,7 @@
 <!-- <img align="right" src="https://avatars.githubusercontent.com/u/41464891?s=400&u=a9a2e35167f1e1df2745ab20b994242bcb69afeb&v=4" alt="Lian Nivin logo" width="100"/> -->
 
 I'm a programmer with 4 years of experience in frontend and backend Web development. \
-I worked on estimating issues, did the dirty work, and provided technical support.
+I worked on estimating issues, did the dirty work, and provided technical support. \
 Currently, I'm learning mobile development to create my first mobile app.
 
 ## Tech Skills 🚀
